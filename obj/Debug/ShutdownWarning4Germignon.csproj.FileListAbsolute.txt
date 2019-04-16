@@ -1,0 +1,6 @@
+D:\source\repos\ShutdownWarning4Germignon\bin\Debug\ShutdownWarning4Germignon.exe
+D:\source\repos\ShutdownWarning4Germignon\bin\Debug\ShutdownWarning4Germignon.pdb
+D:\source\repos\ShutdownWarning4Germignon\obj\Debug\ShutdownWarning4Germignon.csprojAssemblyReference.cache
+D:\source\repos\ShutdownWarning4Germignon\obj\Debug\ShutdownWarning4Germignon.csproj.CoreCompileInputs.cache
+D:\source\repos\ShutdownWarning4Germignon\obj\Debug\ShutdownWarning4Germignon.exe
+D:\source\repos\ShutdownWarning4Germignon\obj\Debug\ShutdownWarning4Germignon.pdb
